@@ -1,0 +1,13 @@
+.time-up-row {
+  animation: fadeInOut 2s ease-in-out infinite alternate;
+  background-color: white;
+}
+
+@keyframes fadeInOut {
+  0% {
+    background-color: white;
+  }
+  100% {
+    background-color: #ffcccc;
+  }
+}
