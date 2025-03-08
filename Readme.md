@@ -1,19 +1,21 @@
-# Project Name
+EcoSaathi
 
 ## 🚀 Project Description
-A concise, engaging description of your hackathon project.
+EcoSaathi is a web platform that transforms waste into wealth for urban waste workers. It uses AI-powered waste recognition, smart verification, and real-time pricing to connect informal waste pickers with recyclers and businesses. By ensuring fair prices, reducing fraud, and promoting responsible recycling, EcoSaathi creates a circular economy that fights poverty while improving urban sanitation.
 
 ## 🎯 Link to Project
 [live link of project](live_link)
 
 ## 🛠 Tech Stack
-- List the primary technologies used
-- Include programming languages, frameworks, and key libraries
-
+-primary technologies used
+ 1. Frontend : React js
+ 2. Backend : Flask
+ 3. Database : MongoDb
+ 4. Ai : Groq
+ 5. Python , Javascript
+ 
 ## 📦 Prerequisites
-- List all required software and versions
-- Include installation instructions
-- Example:
+
   ```
   - Node.js (v14+)
   - npm (v6+)
@@ -25,37 +27,28 @@ A concise, engaging description of your hackathon project.
 1. Install dependencies
    ```bash
    # Frontend
-   cd frontend
+   cd eco_sathi
    npm install
 
    # Backend
-   cd ../backend
+   cd ../waste-complaint-server
    pip install -r requirements.txt
    ```
 
-2. Configure Environment Variables
-   
-   - Create a `.env` file
-   - Add necessary configuration details
-     
-   ```
-   API_KEY=your_api_key
-   DATABASE_URL=your_database_connection_string
-   ```
 
 4. Run the Application
    ```bash
    # Start frontend
-   npm start
+   npm run dev
 
    # Start backend
    python app.py
    ```
 
 ## Team Members
-  [1.Team Member 1](enter_github_id_here)   
-  [2.Team Member 2](enter_github_id_here)   
-  [3.Team Member 3](enter_github_id_here)   
-  [4.Team Member 4](enter_github_id_here)  
+  [1.KishorKumar](https://github.com/Kishor1536)   
+  [2.Kailash Krishnan](https://github.com/Truwu69)   
+  [3.Aditya Poonia](enter_github_id_here)   
+  [4.Lakshya Agarwal](enter_github_id_here)  
 
 **Made with ❤️ at Beachhack 6**
