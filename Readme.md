@@ -48,7 +48,7 @@ EcoSaathi is a web platform that transforms waste into wealth for urban waste wo
 ## Team Members
   [1.KishorKumar](https://github.com/Kishor1536)   
   [2.Kailash Krishnan](https://github.com/Truwu69)   
-  [3.Aditya Poonia](enter_github_id_here)   
-  [4.Lakshya Agarwal](enter_github_id_here)  
+  [3.Aditya Poonia](https://github.com/writetoadityapoonia)    
+  [4.Lakshya Agarwal](https://github.com/Luffy-035)  
 
 **Made with ❤️ at Beachhack 6**
